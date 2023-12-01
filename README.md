@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am ✨ Jaeho Bae ✨ <br>
 My major is Computer Science <br>
-I love Learning, Programming and Implementing <br>
+I love Reading, Learning and Programming <br>
 I am interested in Technology / Research for Human, CS, Security <br>
 <br>
 
