@@ -54,4 +54,5 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - **2023-TOPCIT 상반기 정기평가 장려상** at Handong Global University
 - **2023 캡스톤 페스티벌 ‘캡스톤2’ 부문 우수상** at Handong Global University
 - **KCSE2023 학부생부문 우수상** at Korea Conference on Software Engineering
+- **CERT 우수 장병** at NAVY CERT
 -->
