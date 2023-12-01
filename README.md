@@ -33,7 +33,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - **Introduction to Computer and Electronic Engineering Class** in Handong Global University **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
 - **Introduction to Philosophy Class** in Handong Global University **`Teaching Assistant`** (2021.06 ~ 2021.12) <br>
 - **`Undergraduate Research Student`** of **ISEL:Intelligent Software Engineering Lab** at Handong Global University (2022.06 ~ 2023.12) <br>
-- **'Situation Control Unit'** of **CERT:Computer Emergency Response Team** at NAVY (2019.12 ~ 2021.06) <br>
+- **`Situation Control Unit`** of **CERT:Computer Emergency Response Team** at NAVY (2019.12 ~ 2021.06) <br>
 
 
 ### 👩🏻‍💻 Projects
