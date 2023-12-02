@@ -28,7 +28,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - 🇰🇷 **B.S. in Computer Science and Electrical Engineering** at **Handong Global University** (2017.03 ~ 2023.06) <br>
 
 
-### 🙋🏻‍♀️ Experiences
+### 🙋 Experiences
 - **Java Programming Class** in Handong Global University **`Teaching Assistant`** (2023.03 ~ 2023.12) <br>
 - **`Undergraduate Research Student`** of **ISEL:Intelligent Software Engineering Lab** at Handong Global University (2022.06 ~ 2023.12) <br>
 - **Introduction to Computer and Electronic Engineering Class** in Handong Global University **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
@@ -36,7 +36,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - **`Situation Control Unit`** of **CERT:Computer Emergency Response Team** at Naval Cyber Operation Center (2019.12 ~ 2021.06) <br>
 
 
-### 👩🏻‍💻 Projects
+### 👨‍💻 Projects
 <!--
 - 🔎 **jChecker 2.0**: Intelligent Tutoring System for Java Programming [[Page](http://isel.lifove.net/jchecker2.0)] <br>
 - 🌦️ **YIJUEUN**: Mobile application that lets you share your diary with your loved ones [[GitHub](https://github.com/seojueunn/YIJUEUN.git)] <br>
