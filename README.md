@@ -44,7 +44,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 -->
 - **ByteBERT** : <br>
 - **VIChecker** : <br>
-- **BLAP** : <br>
+- **BLAP** : Efficient budget management web for achieving your bucket list.[[Source]](https://github.com/baejaeho18/BLAP)<br>
 
 ### 📑 Papers
 - **Survey on Security Vulnerability Detection Techniques based on Bytecode Analysis**, in Proceedings of Korea Conference on Software Engineering (KCSE2023) <br>
