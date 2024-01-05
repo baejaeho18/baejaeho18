@@ -24,8 +24,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 <br>
 
 ### 📚 Education
-- 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2023.09 ~ ing) <br>
-- 🇰🇷 **B.S. in Computer Science and Electrical Engineering** at **Handong Global University** (2017.03 ~ 2023.06) <br>
+- 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2017.03 ~ ing) <br>
 
 
 ### 🙋 Experiences
