@@ -41,7 +41,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - 🌦️ **YIJUEUN**: Mobile application that lets you share your diary with your loved ones [[GitHub](https://github.com/seojueunn/YIJUEUN.git)] <br>
 - 💯 **jChecker** (system maintenance & analysis): OOP-based Java program scoring service through static analysis [[Page](http://isel.lifove.net/jchecker)] <br>
 -->
-- **ByteBERT** : <br>
+- **ByCoBERT** : <br>
 - **VIChecker** : <br>
 - **BLAP** : Efficient budget management web for achieving your bucket list [[GitHub]](https://github.com/baejaeho18/BLAP)<br>
 
