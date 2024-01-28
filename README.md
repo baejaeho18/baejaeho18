@@ -22,6 +22,7 @@ My major is Computer Science <br>
 I love Reading, Learning and Programming <br>
 I am interested in Technology / Research for Human, CS, Security <br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejaeho18&count_private=true&exclude_repo=github-readme-stats,baejaeho18.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Education
 - 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2017.03 ~ ing) <br>
