@@ -48,6 +48,8 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - 💰 **BLAP** : Efficient budget management web for achieving your bucket list [[GitHub]](https://github.com/baejaeho18/BLAP)<br>
 
 ### 📑 Papers
+- **ByCoBERT: Bytecode pre-trained 모델 기반 보안 취약점 예측 기법**, 정보과학회논문지(JOK)
+- **GPT 모델을 활용한 보안 취약점 탐색**, 정보과학회 컴퓨팅의 실제 논문지(KTCP)
 - **Survey on Security Vulnerability Detection Techniques based on Bytecode Analysis**, in Proceedings of Korea Conference on Software Engineering (KCSE2023) <br>
 
 
