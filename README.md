@@ -29,11 +29,11 @@ I am interested in Technology / Research for Human, CS, Security <br>
 
 
 ### 🙋 Experiences
-- **Java Programming Class** in Handong Global University **`Teaching Assistant`** (2023.03 ~ 2023.12) <br>
-- **`Undergraduate Research Student`** of **ISEL:Intelligent Software Engineering Lab** at Handong Global University (2022.06 ~ 2023.12) <br>
-- **Introduction to Computer and Electronic Engineering Class** in Handong Global University **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
-- **Introduction to Philosophy Class** in Handong Global University **`Teaching Assistant`** (2021.06 ~ 2021.12) <br>
-- **`Situation Control Unit`** of **CERT:Computer Emergency Response Team** at Navy Cyber Operation Center (2019.12 ~ 2021.06) <br>
+- 👩‍💼 **Java Programming Class** in Handong Global University **`Teaching Assistant`** (2023.03 ~ 2023.12) <br>
+- 👩🏾‍💻 **`Undergraduate Research Student`** of **ISEL:Intelligent Software Engineering Lab** at Handong Global University (2022.06 ~ 2023.12) <br>
+- 👩‍💼 **Introduction to Computer and Electronic Engineering Class** in Handong Global University **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
+- 👩‍💼 **Introduction to Philosophy Class** in Handong Global University **`Teaching Assistant`** (2021.06 ~ 2021.12) <br>
+- ⚓️ **`Situation Control Unit`** of **CERT:Computer Emergency Response Team** at Navy Cyber Operation Center (2019.12 ~ 2021.06) <br>
 
 
 ### 👨‍💻 Projects
@@ -42,19 +42,19 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - 🌦️ **YIJUEUN**: Mobile application that lets you share your diary with your loved ones [[GitHub](https://github.com/seojueunn/YIJUEUN.git)] <br>
 - 💯 **jChecker** (system maintenance & analysis): OOP-based Java program scoring service through static analysis [[Page](http://isel.lifove.net/jchecker)] <br>
 -->
-- 💻 **ByCoBERT** : Project-level vulnerability prediction model using BERT [[GitHub]](https://github.com/ISEL-HGU/ByCoBERT) <br>
+- ⚠️ **ByCoBERT** : Project-level vulnerability prediction model using BERT [[GitHub]](https://github.com/ISEL-HGU/ByCoBERT) <br>
 - 📥 **mvnCrawler** : Crawling the opensource projects form maven repository for ByCoBERT [[GitHub]](https://github.com/ISEL-HGU/mvnCrawler) <br>
 - 🔎 **VIChecker** : File-level vulnerability detection tool using Generative AI in Opensource Projects [[GitHub]](https://github.com/baejaeho18/VIChecker)<br>
 - 💰 **BLAP** : Efficient budget management web for achieving your bucket list [[GitHub]](https://github.com/baejaeho18/BLAP)<br>
 
 ### 📑 Papers
-- **ByCoBERT: Bytecode pre-trained 모델 기반 보안 취약점 예측 기법**, 정보과학회논문지(JOK)
-- **GPT 모델을 활용한 보안 취약점 탐색**, 정보과학회 컴퓨팅의 실제 논문지(KTCP)
-- **Survey on Security Vulnerability Detection Techniques based on Bytecode Analysis**, in Proceedings of Korea Conference on Software Engineering (KCSE2023) [[Paper]](https://github.com/baejaeho18/baejaeho18/blob/0808daa59e9299c2c497c767f10bc93b94b5b3d2/assets/%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EA%B2%80%EC%B6%9C%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5.pdf) <br>
+- ⚠️ **ByCoBERT: Bytecode pre-trained 모델 기반 보안 취약점 예측 기법**, 정보과학회논문지(JOK)
+- 🔎 **GPT 모델을 활용한 보안 취약점 탐색**, 정보과학회 컴퓨팅의 실제 논문지(KTCP)
+- 📄 **Survey on Security Vulnerability Detection Techniques based on Bytecode Analysis**, in Proceedings of Korea Conference on Software Engineering (KCSE2023) [[Paper]](https://github.com/baejaeho18/baejaeho18/blob/0808daa59e9299c2c497c767f10bc93b94b5b3d2/assets/%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EA%B2%80%EC%B6%9C%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5.pdf) <br>
 
 
 ### 🏆 Awards
-- **2023 캡스톤 페스티벌 ‘캡스톤2’ 부문 우수상** at Handong Global University <br>
-- **KCSE2023 학부생부문 우수논문상** at Korea Conference on Software Engineering <br>
-- **CERT 우수 장병** at NAVY Cyber Operation Center
-- **2017 SW경진대회 신입생부문 은상** at Handong Global University <br>
+- 🎓 **2023 캡스톤 페스티벌 ‘캡스톤2’ 부문 우수상** at Handong Global University <br>
+- 📄 **KCSE2023 학부생부문 우수논문상** at Korea Conference on Software Engineering <br>
+- ⚓️ **CERT 우수 장병** at NAVY Cyber Operation Center
+- 🖥️ **2017 SW경진대회 신입생부문 은상** at Handong Global University <br>
