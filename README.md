@@ -56,5 +56,5 @@ I am interested in Technology / Research for Human, CS, Security <br>
 ### 🏆 Awards
 - **2023 캡스톤 페스티벌 ‘캡스톤2’ 부문 우수상** at Handong Global University <br>
 - **KCSE2023 학부생부문 우수논문상** at Korea Conference on Software Engineering <br>
-- **CERT 우수 장병** at NAVY CERT
+- **CERT 우수 장병** at NAVY Cyber Operation Center
 - **2017 SW경진대회 신입생부문 은상** at Handong Global University <br>
