@@ -30,6 +30,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 
 ### 🙋 Experiences
 - 👩‍💼 **Introduction to AI Class** in HGU **`Teaching Assistant`** (2024.03 ~ 2024.06) <br>
+- 👩‍💼 **Coding Hour Mentoring** in HGU **`Teaching Assistant`** (2023.03 ~ 2024.06) <br>
 - 👩‍💼 **Java Programming Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.12) <br>
 - 👩🏾‍💻 **`Undergraduate Research Student`** of **ISEL:Intelligent Software Engineering Lab** at HGU (2022.06 ~ 2023.12) <br>
 - 👩‍💼 **Introduction to Computer and Electronic Engineering Class** in HGU **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
@@ -56,6 +57,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 
 
 ### 🏆 Awards
+- 🎓 **2023 코딩아워 우수TA** at Handong Global University <br>
 - 🎓 **2023 캡스톤 페스티벌 ‘캡스톤2’ 부문 우수상** at Handong Global University <br>
 - 📄 **KCSE2023 학부생부문 우수논문상** at Korea Conference on Software Engineering <br>
 - ⚓️ **CERT 우수 장병** at NAVY Cyber Operation Center
