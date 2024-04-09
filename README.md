@@ -36,6 +36,7 @@ Welcome to my [blog](https://baejaeho18.github.io/)
 - 👩‍💼 **Java Programming Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.12) <br>
 - 👩🏾‍💻 **`Undergraduate Research Student`** of **ISEL:Intelligent Software Engineering Lab** at HGU (2022.06 ~ 2023.12) <br>
 - 👩‍💼 **Introduction to Computer and Electronic Engineering Class** in HGU **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
+- 👩🏾‍💻 **Linux Hackers Club** in HGU **`General Affairs`** (2021.09 ~ 2022.06) <br>
 - 👩‍💼 **Introduction to Philosophy Class** in HGU **`Teaching Assistant`** (2021.06 ~ 2021.12) <br>
 - ⚓️ **`Situation Control Unit`** of **CERT:Computer Emergency Response Team** at Navy Cyber Operation Center (2019.12 ~ 2021.06) <br>
 
