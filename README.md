@@ -21,7 +21,7 @@ I am ✨ Jaeho Bae ✨ <br>
 My major is Computer Science <br>
 I love Reading, Learning and Programming <br>
 I am interested in Technology / Research for Human, CS, Security <br>
-Welcome to my [blog](https://baejaeho18.github.io/) <br>
+Welcome to my world [blog](https://baejaeho18.github.io/) <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejaeho18&layout=compact&hide=RPGLE)
 
