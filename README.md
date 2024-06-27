@@ -31,6 +31,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 
 
 ### 🙋 Experiences
+- 👩‍💼 **System Programming Class** in HGU **`Teaching Materials Development Assistant`** (2024.06 ~ 2024.08) <br>
 - 👩‍💼 **Introduction to Artifical Intelligence Project Class** in HGU **`Teaching Assistant`** (2024.03 ~ 2024.06) <br>
 - 👩‍💼 **Coding Hour Mentoring** in HGU **`Teaching Assistant`** (2023.03 ~ 2024.06) <br>
 - 👩‍💼 **Java Programming Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.12) <br>
