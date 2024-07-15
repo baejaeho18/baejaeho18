@@ -27,7 +27,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 ### Welcome to my world [[blog]](https://baejaeho18.github.io/) <br>
 
 ### 📚 Education
-- 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2017.03 ~ ing) <br>
+- 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2017.03 ~ 2024.08) <br>
 
 
 ### 🙋 Experiences
