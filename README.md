@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## This is Jaeho's Github 🌱
 
-### Hi there 👋🏻
+### Hi there 👋🏻 
 
 I am ✨ Jaeho Bae ✨ <br>
 My major is Computer Science <br>
