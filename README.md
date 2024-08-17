@@ -24,7 +24,10 @@ I am interested in Technology / Research for Human, CS, Security <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejaeho18&layout=compact&hide=RPGLE)
 
-### Welcome to my world [[blog]](https://baejaeho18.github.io/) [[Portfolio]](https://www.notion.so/97b3e994d3504e1287361de5e6a8a478)
+### Welcome to my world 
+[[blog]](https://baejaeho18.github.io/) 
+[[portfolio]](https://www.notion.so/97b3e994d3504e1287361de5e6a8a478) 
+[[CV]](https://github.com/baejaeho18/baejaeho18/blob/main/assets/%5BCV%5D%20CurriculumVitae_BJH.pdf)
 
 ### 📚 Education
 - 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2017.03 ~ 2024.08) <br>
