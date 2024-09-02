@@ -30,6 +30,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 [[CV]](https://github.com/baejaeho18/baejaeho18/blob/main/assets/%5BCV%5D%20CurriculumVitae_BJH.pdf)
 
 ### 📚 Education
+- 🇰🇷 **M.S. in Computer Science and Engineering** at **UNIST** (2025.02 ~ ing)
 - 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2017.03 ~ 2024.08) <br>
 
 
