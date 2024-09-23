@@ -35,7 +35,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 
 
 ### 🙋 Experiences
-- 👩🏾‍💻 **`Research Student`** of **WebSec:Web Security Lab** at UNIST (2024.09 ~ 2025.02) <br>
+- 👩🏾‍💻 **`Research Intern`** of **WebSec:Web Security Lab** at UNIST (2024.09 ~ 2025.02) <br>
 - 👩‍💼 **System Programming Class** in HGU **`Teaching Materials Development Assistant`** (2024.07 ~ 2024.09) <br>
 - 👩‍💼 **Introduction to Artifical Intelligence Project Class** in HGU **`Teaching Assistant`** (2024.03 ~ 2024.06) <br>
 - 👩‍💼 **Coding Hour Mentoring** in HGU **`Teaching Assistant`** (2023.03 ~ 2024.06) <br>
