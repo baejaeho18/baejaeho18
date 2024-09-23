@@ -30,11 +30,12 @@ I am interested in Technology / Research for Human, CS, Security <br>
 [[CV]](https://github.com/baejaeho18/baejaeho18/blob/main/assets/%5BCV%5D%20CurriculumVitae_BJH.pdf)
 
 ### 📚 Education
-- 🇰🇷 **M.S. in Computer Science and Engineering** at **UNIST** (2025.02 ~ ing)
+- 🇰🇷 **M.S. in Computer Science and Engineering** at **UNIST** (2025.03 ~ ing)
 - 🇰🇷 **B.S. in Artificial Intelligence・Computer Science and Engineering** at **Handong Global University** (2017.03 ~ 2024.08) <br>
 
 
 ### 🙋 Experiences
+- 👩🏾‍💻 **`Research Student`** of **WebSec:Web Security Lab** at UNIST (2024.09 ~ 2025.02) <br>
 - 👩‍💼 **System Programming Class** in HGU **`Teaching Materials Development Assistant`** (2024.07 ~ 2024.09) <br>
 - 👩‍💼 **Introduction to Artifical Intelligence Project Class** in HGU **`Teaching Assistant`** (2024.03 ~ 2024.06) <br>
 - 👩‍💼 **Coding Hour Mentoring** in HGU **`Teaching Assistant`** (2023.03 ~ 2024.06) <br>
