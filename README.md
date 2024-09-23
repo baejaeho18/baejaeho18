@@ -24,6 +24,8 @@ I am interested in Technology / Research for Human, CS, Security <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejaeho18&layout=compact&hide=RPGLE)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baejaeho18)
+
 ### Welcome to my world 
 [[blog]](https://baejaeho18.github.io/) 
 [[portfolio]](https://www.notion.so/97b3e994d3504e1287361de5e6a8a478) 
