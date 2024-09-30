@@ -41,7 +41,7 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - 👩‍💼 **Introduction to Artifical Intelligence Project Class** in HGU **`Teaching Assistant`** (2024.03 ~ 2024.06) <br>
 - 👩‍💼 **Coding Hour Mentoring** in HGU **`Teaching Assistant`** (2023.03 ~ 2024.06) <br>
 - 👩‍💼 **Java Programming Class** in HGU **`Teaching Assistant`** (2023.03 ~ 2023.12) <br>
-- 👩🏾‍💻 **`Undergraduate Research Student`** of **ISEL: Intelligent Software Engineering Lab** at HGU (2022.06 ~ 2023.12) <br>
+- 👩🏾‍💻 **`Undergraduate Research Student`** of **<a href="https://isel.handong.edu/">ISEL</a>: Intelligent Software Engineering Lab** at HGU (2022.06 ~ 2023.12) <br>
 - 👩‍💼 **Introduction to Computer and Electronic Engineering Class** in HGU **`Teaching Assistant`** (2022.03 ~ 2022.06) <br>
 - 👩🏾‍💻 **Linux Hackers Club** in HGU **`General Affairs`** (2021.09 ~ 2022.06) <br>
 - 👩‍💼 **Introduction to Philosophy Class** in HGU **`Teaching Assistant`** (2021.06 ~ 2021.12) <br>
