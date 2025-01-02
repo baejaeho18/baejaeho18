@@ -22,7 +22,7 @@ My major is Computer Science <br>
 I love Reading, Learning and Programming <br>
 I am interested in Technology / Research for Human, CS, Security <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baejaeho18)
+# ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baejaeho18)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejaeho18&layout=compact&hide=RPGLE)
 
 ### Welcome to my world 
