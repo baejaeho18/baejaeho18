@@ -54,11 +54,11 @@ I am interested in Technology / Research for Human, CS, Security <br>
 - 🌦️ **YIJUEUN**: Mobile application that lets you share your diary with your loved ones [[GitHub](https://github.com/seojueunn/YIJUEUN.git)] <br>
 - 💯 **jChecker** (system maintenance & analysis): OOP-based Java program scoring service through static analysis [[Page](http://isel.lifove.net/jchecker)] <br>
 -->
-- 🖲 **CIMS** : CCTV Integrated Management System using WiFi-Hallow and gRPC live-streaming service [[Github]](https://github.com/baejaeho18/CIMS.git) <br>
-- ⚠️ **ByCoBERT** : Project-level vulnerability prediction model using BERT [[GitHub]](https://github.com/ISEL-HGU/ByCoBERT) <br>
-- 📥 **mvnCrawler** : Crawling the opensource projects form maven repository for ByCoBERT [[GitHub]](https://github.com/ISEL-HGU/mvnCrawler) <br>
-- 🔎 **VIChecker** : File-level vulnerability detection tool using Generative AI in Opensource Projects [[GitHub]](https://github.com/baejaeho18/VIChecker)<br>
-- 💰 **BLAP** : Efficient budget management web for achieving your bucket list [[GitHub]](https://github.com/baejaeho18/BLAP)<br>
+- **CIMS** : CCTV Integrated Management System using WiFi-Hallow and gRPC live-streaming service [[Github]](https://github.com/baejaeho18/CIMS.git) <br>
+- **ByCoBERT** : Project-level vulnerability prediction model using BERT [[GitHub]](https://github.com/ISEL-HGU/ByCoBERT) <br>
+- **mvnCrawler** : Crawling the opensource projects form maven repository for ByCoBERT [[GitHub]](https://github.com/ISEL-HGU/mvnCrawler) <br>
+- **VIChecker** : File-level vulnerability detection tool using Generative AI in Opensource Projects [[GitHub]](https://github.com/baejaeho18/VIChecker)<br>
+- **BLAP** : Efficient budget management web for achieving your bucket list [[GitHub]](https://github.com/baejaeho18/BLAP)<br>
 
 ### 📑 Papers
 - **ByCoBERT: Bytecode pre-trained 모델 기반 보안 취약점 예측 기법**, 정보과학회논문지(JOK) 
